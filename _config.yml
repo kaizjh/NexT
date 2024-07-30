@@ -6,7 +6,7 @@
 # Site
 title: 博观约取
 subtitle: 知行合一
-description: 我的CS自学博客
+description:
 author: Kai Zheng
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-hans
@@ -16,7 +16,7 @@ date_format: '%Y-%m-%d'
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url: kaizjh.github.io
 baseurl: kaizjh.github.io
-permalink: kaizjh.github.io
+permalink: pretty
 
 # Pagination
 paginate: 10
