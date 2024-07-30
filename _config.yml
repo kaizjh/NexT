@@ -134,12 +134,12 @@ menu:
 menu_icons:
   enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
-  home: home
+  home: 主页
   about: user
   categories: th
   schedule: calendar
-  tags: tags
-  archives: archive
+  tags: 标志
+  archives: 档案
   sitemap: sitemap
   commonweal: heartbeat
 
@@ -229,7 +229,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
-
+  qq: qq
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
@@ -554,7 +554,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
